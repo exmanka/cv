@@ -7,4 +7,4 @@
 
 Ким Михаил Алексеевич. Текущее резюме.
 
-![](https://raw.githubusercontent.com/exmanka/cv/main/Development.png)
+![](https://raw.githubusercontent.com/exmanka/cv/main/res/devops-makim.png)
