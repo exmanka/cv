@@ -1,3 +1,8 @@
+[![linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/exmanka)
+[![vk](https://img.shields.io/badge/vk-%230077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/exmanka)
+[![telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exmanka)
+<a href="mailto:exmanka@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 # CV
 
 Kim Michael Alekseevich. Current CV.
