@@ -3,7 +3,7 @@
 [![telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exmanka)
 <a href="mailto:exmanka@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-# Current CV
+# Mikhail Kim. CV
 
 📄 __[In PDF format](https://github.com/exmanka/cv/blob/main/res/devops-makim.pdf)__
 
